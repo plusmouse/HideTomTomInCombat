@@ -1,0 +1,6 @@
+## Interface: 90100
+## Title: Hide TomTom In Combat
+## Version: 1
+## Author: plusmouse
+
+HideTomTomInCombat.lua
